@@ -1,4 +1,4 @@
-# Minesweeper Game in Java (Console-Based)
+# Minesweeper Game in Java
 
 This project is a console-based implementation of the classic **Minesweeper** game,
 developed using Java. The program simulates a grid-based arena where bombs are
